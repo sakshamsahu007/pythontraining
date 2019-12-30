@@ -7,7 +7,7 @@ $result=mysqli_query($conn, "select * from users");
 $usersAarray=array(); 
 ?>
 
-<a href="add_user.php?mode=insert">Add User Data</a>
+<a href="add_user.php?mode=insert">Add User ...</a>
 <br><br><br>
 <table border=1>
 <tr>
